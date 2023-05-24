@@ -1,0 +1,19 @@
+#gameContainer {
+  text-align: center;
+}
+
+#gameBoard {
+  border: 3px solid black;
+}
+
+#scoreText {
+  font-size: 60px;
+}
+
+#resetBtn {
+  font-size: 22px;
+  padding: 7px 15px;
+  border-radius: 7px;
+  cursor: pointer;
+  display: none;
+}
